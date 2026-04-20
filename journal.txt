@@ -1,0 +1,20 @@
+kwi 17 13:42:02 i3nixos mount[1754]: mount error(13): Permission denied
+kwi 17 13:42:02 i3nixos mount[1754]: Refer to the mount.cifs(8) manual page (e.g. man mount.cifs) and kernel log messages (dmesg)
+kwi 17 13:42:02 i3nixos systemd[1]: mnt-shared.mount: Mount process exited, code=exited, status=32/n/a
+kwi 17 13:42:02 i3nixos systemd[1]: mnt-shared.mount: Failed with result 'exit-code'.
+kwi 17 13:42:02 i3nixos systemd[1]: Failed to mount /mnt/shared.
+kwi 17 13:42:02 i3nixos systemd[1]: mnt-shared.mount: Consumed 7ms CPU time over 19ms wall clock time, 2M memory peak, 836B incoming IP traffic, 1.1K outgoing IP traffic.
+kwi 17 13:56:36 i3nixos systemd[1]: Mounting /mnt/shared...
+kwi 17 13:56:36 i3nixos mount[1974]: Password for uczen\npasswird=zaq1@WSX@//192.168.192.101/shared:
+kwi 17 13:56:36 i3nixos mount[1973]: mount error(13): Permission denied
+kwi 17 13:56:36 i3nixos mount[1973]: Refer to the mount.cifs(8) manual page (e.g. man mount.cifs) and kernel log messages (dmesg)
+kwi 17 13:56:36 i3nixos systemd[1]: mnt-shared.mount: Mount process exited, code=exited, status=32/n/a
+kwi 17 13:56:36 i3nixos systemd[1]: mnt-shared.mount: Failed with result 'exit-code'.
+kwi 17 13:56:36 i3nixos systemd[1]: Failed to mount /mnt/shared.
+kwi 17 13:56:36 i3nixos systemd[1]: Mounting /mnt/shared...
+kwi 17 13:56:36 i3nixos mount[1978]: Password for uczen\npasswird=zaq1@WSX@//192.168.192.101/shared:
+kwi 17 13:56:36 i3nixos mount[1977]: mount error(13): Permission denied
+kwi 17 13:56:36 i3nixos mount[1977]: Refer to the mount.cifs(8) manual page (e.g. man mount.cifs) and kernel log messages (dmesg)
+kwi 17 13:56:36 i3nixos systemd[1]: mnt-shared.mount: Mount process exited, code=exited, status=32/n/a
+kwi 17 13:56:36 i3nixos systemd[1]: mnt-shared.mount: Failed with result 'exit-code'.
+kwi 17 13:56:36 i3nixos systemd[1]: Failed to mount /mnt/shared.
